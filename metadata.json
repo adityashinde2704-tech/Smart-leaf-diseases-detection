@@ -1,0 +1,6 @@
+{
+  "name": "Smart Leaf ID & Health Monitor",
+  "description": "AI-powered real-time leaf identification and plant health monitoring system with ESP32-CAM integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
